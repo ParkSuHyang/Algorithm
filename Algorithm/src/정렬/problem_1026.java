@@ -34,5 +34,7 @@ public class problem_1026 {
 		}
 		
 		System.out.println(sum);
+		
+		sc.close();
 	}
 }
